@@ -12,7 +12,7 @@ For an Auto Insurance company, predict the customer life time value (CLV). CLV i
 -	Do different tests like multicollinearity test, Homoscedasticity test, Normality test, Serial correlation, MAPE.
 -	Mention goodness of fit statistics (R-square, adjusted R-squares).
 
-### This Repsoitory contains the following:
+## This Repsoitory contains the following:
 - Code file
 - Approach, steps, results found and their interpretation, significance of the variables and their business meaning etc. in Word doc.
 - PowerPoint containing Objective, significant variables and results obtained in laymen language, business recommendations (if any).
